@@ -1,0 +1,7 @@
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\AlunoPOO\AlunoPOO\bin\Debug\AlunoPOO.exe.config
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\AlunoPOO\AlunoPOO\bin\Debug\AlunoPOO.exe
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\AlunoPOO\AlunoPOO\bin\Debug\AlunoPOO.pdb
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\AlunoPOO\AlunoPOO\obj\Debug\AlunoPOO.csproj.AssemblyReference.cache
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\AlunoPOO\AlunoPOO\obj\Debug\AlunoPOO.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\AlunoPOO\AlunoPOO\obj\Debug\AlunoPOO.exe
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\AlunoPOO\AlunoPOO\obj\Debug\AlunoPOO.pdb

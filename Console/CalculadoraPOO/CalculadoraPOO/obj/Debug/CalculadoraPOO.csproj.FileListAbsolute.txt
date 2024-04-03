@@ -1,0 +1,7 @@
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\CalculadoraPOO\CalculadoraPOO\bin\Debug\CalculadoraPOO.exe.config
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\CalculadoraPOO\CalculadoraPOO\bin\Debug\CalculadoraPOO.exe
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\CalculadoraPOO\CalculadoraPOO\bin\Debug\CalculadoraPOO.pdb
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.csproj.AssemblyReference.cache
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.exe
+D:\Users\Aluno\Desktop\Nauakii C#\SENAC\Console\CalculadoraPOO\CalculadoraPOO\obj\Debug\CalculadoraPOO.pdb

@@ -1,0 +1,7 @@
+D:\Users\Aluno\Desktop\Nauakii C#\Console\NadadorFuncao1\NadadorFuncao1\bin\Debug\NadadorFuncao1.exe.config
+D:\Users\Aluno\Desktop\Nauakii C#\Console\NadadorFuncao1\NadadorFuncao1\bin\Debug\NadadorFuncao1.exe
+D:\Users\Aluno\Desktop\Nauakii C#\Console\NadadorFuncao1\NadadorFuncao1\bin\Debug\NadadorFuncao1.pdb
+D:\Users\Aluno\Desktop\Nauakii C#\Console\NadadorFuncao1\NadadorFuncao1\obj\Debug\NadadorFuncao1.csproj.AssemblyReference.cache
+D:\Users\Aluno\Desktop\Nauakii C#\Console\NadadorFuncao1\NadadorFuncao1\obj\Debug\NadadorFuncao1.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Desktop\Nauakii C#\Console\NadadorFuncao1\NadadorFuncao1\obj\Debug\NadadorFuncao1.exe
+D:\Users\Aluno\Desktop\Nauakii C#\Console\NadadorFuncao1\NadadorFuncao1\obj\Debug\NadadorFuncao1.pdb
